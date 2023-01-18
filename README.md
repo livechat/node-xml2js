@@ -1,3 +1,8 @@
+Why this fork exists
+===========
+
+Latest version on npm contains error with empty tag behavior. Package wasn't updated on npm for 3 years now, but on github/master branch this behavior is fixed.
+
 node-xml2js
 ===========
 
